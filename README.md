@@ -8,8 +8,8 @@ dependencyResolutionManagement {
 		repositories {
 			mavenCentral()
 			maven { url 'https://jitpack.io' }
-		}
 	}
+}
  ```
 
 > Step 2: Add the dependency:
@@ -17,5 +17,5 @@ dependencyResolutionManagement {
 ```
 dependencies {
 	        implementation 'com.github.hardeepmonga:connection-detector:1.0.0'
-	}
+}
  ```
