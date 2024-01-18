@@ -16,6 +16,6 @@ dependencyResolutionManagement {
 
 ```
 dependencies {
-	        implementation 'com.github.hardeepmonga:connection-detector:Tag'
+	        implementation 'com.github.hardeepmonga:connection-detector:1.0.0'
 	}
  ```
